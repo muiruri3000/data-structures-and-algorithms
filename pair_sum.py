@@ -12,7 +12,7 @@ def pair_sum(numbers, target_sum):
     if complement in previous_nums:
       return (index, previous_nums[complement])
 
-    # in every iteration insert a num and its index
+    # in every iteration insert a num and its index.
     previous_nums[num] = index
 
 
