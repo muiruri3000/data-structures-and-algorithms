@@ -29,7 +29,6 @@ def pair_sum(numbers, target_sum):
   #       return (i,j)
 
 
-  # hashmaps is faster and better
-
+  # hashmaps is faster and better has a O(1) time complexity.
  
   
